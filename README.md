@@ -1,12 +1,11 @@
 ## WARMUP
-
 ## KICKS
-Turning kick (Simple kick)
-knee strike
-Side kick
-Front side kick
-Back kick
-Hock kick
+- Turning kick (Simple kick)
+- knee strike
+- Side kick
+- Front side kick
+- Back kick
+- Hock kick
 Low side kick + back kick on face
 Turning back kick
 Low side kick + turning back kick on face
