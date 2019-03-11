@@ -1,6 +1,6 @@
-##WARMUP
+## WARMUP
 
-##KICKS
+## KICKS
 Turning kick (Simple kick)
 knee strike
 Side kick
@@ -16,7 +16,7 @@ flying front kick
 flying back kick
 360 kick?
 540 kick?
-##PUNCHES
+## PUNCHES
 Punches
 Jab + cross
 Speed Bag punches
@@ -24,24 +24,26 @@ elbow strike
 Palm strike (to throw away the opponent)
 upper cut
 cross chopper
-##DEFENCE
+## DEFENCE
 fighting stance + knee up
-##COMBINATIONS
+## COMBINATIONS
 double kick 1 leg(low + high) (side AND front kick)
 double kick 2 legs(low + high) (side AND front kick)
 knee strike + elbow strike + cross/ upper cut
 
-##CLEAN K.O.
+## CLEAN K.O.
 (using contrast moves)
 
-CHANGE SIDE FAST
+## CHANGE SIDE FAST
+
+
 Change fighting stance
 explosive squat jumps
 fall back from left side
 fall back from right side
 fall front to left side
 fall front to right side
-##EGO KILLER
+## EGO KILLER
 
 
 
