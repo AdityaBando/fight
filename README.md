@@ -1,1 +1,1 @@
-[about github pages](https://adityabando.github.io/fight/a_new_file.md)
+[about github pages](https://adityabando.github.io/fight/a_new_file)
